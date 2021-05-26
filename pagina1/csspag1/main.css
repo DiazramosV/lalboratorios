@@ -1,0 +1,32 @@
+
+.minicontenedor{ 
+    font-family: cursive ;
+    width: 300px;
+    margin: 0px ;
+}
+.contenedor{
+    font-family: cursive;
+    width: 600px;
+    margin: 0% auto;
+    background-image: url(../asset/kiryu.png);
+    background-repeat: no-repeat;
+    background-position: 70% 0%;
+    background-size: 30%;
+
+}
+.anterior{
+    font-family: serif;
+    text-decoration: none;
+    padding: 5px 25px;
+    font-size: 20px;
+    color:cornsilk;
+    border-radius: 6px;
+    background-image: linear-gradient(to left,#ada9ac,#2d1e68,#000000);
+    
+
+}
+.anterior:hover{
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #31741f, 0 0 30px #31741f, 0 0 40px #31741f, 0 0 55px #31741f, 0 0 75px #31741f;
+}
+
