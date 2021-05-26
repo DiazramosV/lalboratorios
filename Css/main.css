@@ -1,0 +1,25 @@
+.siguiente{
+
+    text-decoration: none;
+    padding: 10px 50px;
+    font-size: 20px;
+    color:cornsilk;
+    border-radius: 6px;
+    background-image: linear-gradient(to left,#ada9ac,#2d1e68,#000000);
+    box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, -3px -5px 17px 15px rgba(174,7,255,0);
+
+}
+.siguiente:hover{
+    box-shadow: 0px 20px 0px -10px #FFFFFF, 0px -20px 0px -10px #FFFFFF, 20px 0px 0px -10px #FFFFFF, -20px 0px 0px -10px #FFFFFF, 0px 0px 0px 10px #FF0000, 5px 5px 15px 5px rgba(0,0,0,0);
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+
+.Ingresar{
+    display: flex;
+    text-align: center;
+    margin-top: -120px;
+    margin-left: 680px;
+   
+}
+
+
