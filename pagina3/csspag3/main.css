@@ -8,12 +8,12 @@
     font-family: cursive;
     width: 600px;
     margin: 0% auto;
-    background-image: url(../../pagina2/asset/anime.jpg);
+    background-image:url(../../pagina3/asset/lamy.png);
     background-repeat: no-repeat;
-    background-position: 15% 20%;
-    background-size: 30%;
-
+    background-position: 0% 19%;
+    background-size: 280px; 
 }
+
 .anterior{
     font-family: serif;
     text-decoration: none;
