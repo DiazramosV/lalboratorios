@@ -1,16 +1,17 @@
 
 .minicontenedor{ 
     font-family: cursive ;
+   
     width: 300px;
-    margin: 0px ;
+    margin-left: auto;
 }
 .contenedor{
     font-family: cursive;
     width: 600px;
     margin: 0% auto;
-    background-image: url(../asset/kiryu.png);
+    background-image: url(../../pagina2/asset/anime.jpg);
     background-repeat: no-repeat;
-    background-position: 70% 10%;
+    background-position: 15% 20%;
     background-size: 30%;
 
 }
