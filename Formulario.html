@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/main.css" type="text/css">
+    <link rel="stylesheet" href="pagina3/csspag3/main.css" type="text/css">
+    <title>Documentos</title>
+</head>
+<body >
+     
+
+<div class="contenedorr">   
+            
+    <form action="registro.php" method="post">  
+        <p><strong>Introduce los terminos de busqueda</strong></p>
+        <p style="text-align: center;">Obra</p>
+        Titulo:
+        <input type="text" name="titulo"> <br>
+        Autor:
+        <input type="text" name="autor"> <br>
+    </form> 
+
+    <form action="registro.php" method="post">  
+        <br><br>
+        <p style="text-align: center;">Tipo</p>
+        <input type="checkbox" name="escultura">Escultura <br>
+        <input type="checkbox" name="arquitectura" >Arquitectura <br>
+        <input type="checkbox" name="pintura" >Pintura <br>
+    </form>
+
+    <form action="registro.php" method="post">
+        <br><br>
+        <p style="text-align: center;">Disponibilidad</p>
+        <input type="radio" name="disponibilidad" value="1">
+        Museo/Acceso publico <br>
+        <input type="radio" name="disponibilidad" value="2">
+        Coleccion
+    </form>
+   
+    <form action="registro.php" method="post">
+        <br> <br>
+        <p style="text-align: center;">Estilo</p>
+        <select name="linea" style="margin-left: 30px;">
+            <option value="1">clasico </option>
+            <option value="1">anime </option>
+            <option value="1">Kiryu </option>
+        </select>
+        
+    </form>
+
+</div>
+<div>
+<p style="margin: -15% 0%;">haganos saber su sugerencias</p>
+    <textarea name="comentarios" id="" cols="40" rows="4" style="display:grid; margin:14% 13%;"></textarea>   
+</div>
+
+<P style="margin-top: -10%;">
+<a href="pagina3/thirdNews.html" class="anterior" >Anterior</a>
+</P>
+
+</p>
+</body>
+</html>

@@ -1,10 +1,13 @@
 
 .minicontenedor{ 
+   
     font-family: cursive ;
     width: 300px;
     margin: 0px ;
+
 }
 .contenedor{
+  
     font-family: cursive;
     width: 600px;
     margin: 0% auto;

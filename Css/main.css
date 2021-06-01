@@ -1,3 +1,11 @@
+.contenedorr{
+    margin:a auto; 
+    display: flex;
+    width: 800px;
+    height: 400px;
+
+}
+
 .siguiente{
 
     text-decoration: none;
@@ -28,3 +36,9 @@
 
   }
 
+.titulo {
+    margin-bottom: 0;
+    animation-delay: 0.25s;
+    font-size: 4rem;
+    font-size: min(14vw, 4rem);
+}
